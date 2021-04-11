@@ -4,8 +4,8 @@
  * @version 2.0.0
  * @description Allows you to send embeds
  * @website https://github.com/Fraserbc/BetterDiscord-Embeds
- * @source https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js
- * @updateUrl https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js
+ * @source https://raw.githubusercontent.com/KorewaLidesu/BetterDiscord-Embeds/master/SendEmbeds.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/KorewaLidesu/BetterDiscord-Embeds/master/SendEmbeds.plugin.js
  */
  
  const config = {
@@ -20,7 +20,7 @@
         version: "2.0.0",
         description: "Allows you to send embeds",
         github: "https://github.com/Fraserbc/BetterDiscord-Embeds",
-        github_raw: "https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js"
+        github_raw: "https://raw.githubusercontent.com/KorewaLidesu/BetterDiscord-Embeds/master/SendEmbeds.plugin.js"
     }
 };
 
